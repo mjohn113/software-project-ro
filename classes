@@ -1,0 +1,46 @@
+class athlete{
+  public:
+
+  private:
+};
+
+
+
+class country{
+  public:
+		  
+  private:
+};
+
+
+
+class schedule{
+  public:
+
+  private:
+};
+
+
+
+class eventLocation{
+  public:
+
+  private:
+};
+
+
+
+
+class event{
+  public:
+
+  private:
+};
+
+
+
+
+
+
+
+
